@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_CLIENT_LCD_PACKAGE
+	bool "client_lcd_package"
+	help
+	  Includes the client side lcd executable, wiringpi library in the kernel image.
+	  Used to understand buildroot external trees and package builds.

@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_SERVER_RFID_PACKAGE
+	bool "server_rfid_package"
+	help
+	  Includes the server side rfid executable, wiringpi library in the kernel image.
+	  Used to understand buildroot external trees and package builds.
