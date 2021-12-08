@@ -1,28 +1,11 @@
-# buildroot-rpi
+# Repository
 
+This is the Buildroot repository
 
-We will be using rpi3
+# Project Overview Page
 
-Configuration of rpi  for Buildroot:
-----------------------------
-Other configuration of rpi:
-----------------------------
-For models A, B, A+ or B+:
+[Link to the project overview page](https://github.com/cu-ecen-aeld/final-project-yogesh-1303-app/wiki/Project-Overview)
 
-  $ make raspberrypi_defconfig
+# Schedule Page
 
-For model Zero (model A+ in smaller form factor):
-
-  $ make raspberrypi0_defconfig
-
-For model 2 B:
-
-  $ make raspberrypi2_defconfig
-
-For model 3 B and B+:
-
-  $ make raspberrypi3_defconfig
-
-For model 4 B:
-
-  $ make raspberrypi4_defconfig
+[Link to the schedule Page](https://github.com/cu-ecen-aeld/final-project-yogesh-1303-app/wiki/Final-Project-Schedule-Page)
